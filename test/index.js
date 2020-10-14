@@ -1,1 +1,2 @@
-const hello = "hello pull"
+const hello = "hello pull";
+const a;
